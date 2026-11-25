@@ -1,0 +1,7 @@
+{
+  "n_rows": 1095,
+  "date_min": "2023-01-01",
+  "date_max": "2025-12-30",
+  "test_days": 90,
+  "best_model_by_rmse": "Holt-Winters"
+}

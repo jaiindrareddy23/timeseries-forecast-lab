@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Go
+datagen/datagen
+datagen/*.exe
+datagen/*.test
+
+# OS
+.DS_Store
